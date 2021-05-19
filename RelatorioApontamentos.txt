@@ -1,0 +1,4 @@
+"Horario de Trabalho",1,"08:00","11:00"
+"Marcações Feitas",1,"08:30","12:00"
+"Atrasos",1,"08:00","08:30"
+"Horas Extras",1,"11:00","12:00"

@@ -1,0 +1,1 @@
+cmd /c "d:\java\jdk-11.0.10+9\bin\java.exe" -jar Desafio.jar

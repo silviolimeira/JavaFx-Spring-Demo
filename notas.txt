@@ -1,0 +1,35 @@
+
+How to open a PDF file javafx:
+https://stackoverflow.com/questions/36960844/how-to-open-a-pdf-file-javafx
+
+https://github.com/Antonio-Raposo/cup-of-java
+
+JDK:
+https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=openj9
+
+Java 14 - Creating Self-Contained Java Applications With Packaging Tool (JEP 343)
+https://www.dariawan.com/tutorials/java/java-14-packaging-tool-jep-343/
+
+JavaFX
+https://openjfx.io/openjfx-docs/#install-javafx
+https://openjfx.io/
+
+JasperReport Community
+https://community.jaspersoft.com/documentation/jasperreports-server-user-guide/v56/using-data-chooser-wizard#ad_hoc_reports_2012736005_1217821
+https://community.jaspersoft.com/documentation/jasperreports-server-user-guide/using-filters-and-input-controls
+https://mvnrepository.com/artifact/net.sf.jasperreports/jasperreports/6.17.0
+Usando XML Adapter:
+https://community.jaspersoft.com/documentation/tibco-jaspersoft-studio-user-guide/v62/using-xml-data-adapters
+
+https://www.devmedia.com.br/gerando-relatorios-com-jasperreports/24798
+
+https://community.jaspersoft.com/wiki/jasperreports-library-samples
+
+Jasper Examples with SQLite
+https://github.com/sergiodurand/jasper-examples.git
+
+WiX Tool Set
+https://wixtoolset.org/releases/
+
+
+https://sourceforge.net/p/jasperreports/news/
